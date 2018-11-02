@@ -1,0 +1,1 @@
+<?php require_once TEMPLATE.ADMIN."index.php"; ?>
